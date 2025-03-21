@@ -27,3 +27,22 @@ React, Node.js, Express, MySQL을 활용해 **풀스택으로 구현한 온라�
 ✔ **Skeleton UI** - 상품 로딩 시 Skeleton UI를 활용해 대기 시간동안 사용자 경험 향상 <br/>
 ✔ **반응형 UI** - 데스크탑, 테블릿, 모바일 환경을 고려한 반응형 UI <br/>
 ✔ **데이터 패칭 최적화** - TanStack Query을 활용한 데이터 패칭 및 캐싱. 데이터 갱신을 활용한 즉각적 UI 동기화 <br/>
+<br/>
+
+## 🛠️ Tech Stack
+
+### Frontend
+- **✨ UI** - React, MUI <br/>
+- **📃 Language** - TypeScript  <br/>
+- **⚛️ 네비게이션** - React Router Dom  <br/>
+- **🌐 전역 상태 관리** - react-redux  <br/>
+- **🎯 네트워크 상태 관리** - Tanstack Query  <br/>
+- **🎨 스타일링** - Tailwind CSS <br/> 
+- **📊 차트 라이브러리** - Apex Chart <br/>
+
+### backend
+- **🌏 서버** - Node.js with Express
+- **🗄️ Database** - MySQL, Sequelize ORM
+- **🔑 사용자 인증** - OAuth2 with Kakao, JWT
+- **🧱 MVC architecture**
+- **📡 RESTful API**
