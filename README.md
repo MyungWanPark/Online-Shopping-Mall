@@ -1,6 +1,6 @@
 # Online-Shopping-Mall(Full Stack E-commerce)
 
-React, Node.js, Express, MySQL을 활용해 **풀스택으로 구현한 온라인 쇼핑몰** 입니다. <br/>
+React, Node.js, Express, MySQL을 활용한 **풀스택으로 구현한 온라인 쇼핑몰** 입니다. <br/>
 실시간 상품 검색, 장바구니, 페이지네이션, 상품 추가, 데이터 시각화 등을 구현하였습니다. <br/>
 <br/>
 
@@ -40,9 +40,48 @@ React, Node.js, Express, MySQL을 활용해 **풀스택으로 구현한 온라�
 - **🎨 스타일링** - Tailwind CSS <br/> 
 - **📊 차트 라이브러리** - Apex Chart <br/>
 
-### backend
+### Backend
 - **🌏 서버** - Node.js with Express
 - **🗄️ Database** - MySQL, Sequelize ORM
 - **🔑 사용자 인증** - OAuth2 with Kakao, JWT
 - **🧱 MVC architecture**
 - **📡 RESTful API**
+
+### Deployment
+- **🚀 Frontend** - Netlify
+- **🖥️ Backend** - CloudType
+- **🗄️ DB** - CloudType
+<br/>
+
+## 💻 Installation & Setup
+
+### 1️⃣ Clone the repository
+
+```bash
+git clone https://github.com/MyungWanPark/shopping-mall-frontend.git
+git clone https://github.com/MyungWanPark/shopping-mall-backend.git
+```
+
+### 2️⃣ Install dependencies
+```bash
+cd shopping-mall-frontend
+npm install
+cd shopping-mall-backend
+npm install
+```
+
+### 3️⃣ Run the application(개발 환경, .env 파일 필요)
+
+### Frontend
+```bash
+npm run start
+```
+http://localhost:3000 환경에서 개발 모드 실행
+
+### Backend
+```bash
+npm run build
+npm run start:dev
+```
+
+http://localhost:8080 환경에서 개발 모드 실행
