@@ -42,6 +42,7 @@ React, Node.js, Express, MySQL을 활용한 **풀스택으로 구현한 온라�
 
 ### Backend
 - **🌏 서버** - Node.js with Express
+- **📃 Language** - TypeScript  <br/>
 - **🗄️ Database** - MySQL, Sequelize ORM
 - **🔑 사용자 인증** - OAuth2 with Kakao, JWT
 - **🧱 MVC architecture**
