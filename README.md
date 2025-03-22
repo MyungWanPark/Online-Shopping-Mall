@@ -35,7 +35,7 @@ React, Node.js, Express, MySQL을 활용한 **풀스택으로 구현한 온라�
 - **✨ UI** - React, MUI <br/>
 - **📃 Language** - TypeScript  <br/>
 - **⚛️ 네비게이션** - React Router Dom  <br/>
-- **🌐 전역 상태 관리** - react-redux  <br/>
+- **🌐 전역 상태 관리** - Redux  <br/>
 - **🎯 네트워크 상태 관리** - Tanstack Query  <br/>
 - **🎨 스타일링** - Tailwind CSS <br/> 
 - **📊 차트 라이브러리** - Apex Chart <br/>
