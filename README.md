@@ -22,7 +22,7 @@ React, Node.js, Express, MySQL을 활용한 **풀스택으로 구현한 온라�
 ✔ **실시간 UI 동기화** - 장바구니에 상품 추가 및 삭제 시, 네비게이션 바의 장바구니 아이콘 숫자를 즉시 동기화 <br/>
 ✔ **Pagination** - 상품의 갯수가 10개 이상인 경우, 페이지 단위로 상품 조회 기능 <br/>
 ✔ **상품 상세 페이지** - 상품에 대한 자세한 소개, 상품 별 옵션 설정, 장바구니 추가 기능 <br/>
-✔ **상품 추가** - 새로운 상품 등록 기능 <br/>
+✔ **상품 등록** - 새로운 상품 등록 기능 <br/>
 ✔ **Skeleton UI** - 상품 로딩 시 Skeleton UI를 활용해 대기 시간동안 사용자 경험 향상 <br/>
 ✔ **카테고리별 상품 조회** - 남성, 여성, 가방 등 카테고리별 상품 조회 기능 <br/>
 ✔ **반응형 UI** - 데스크탑, 테블릿, 모바일 환경을 고려한 반응형 UI <br/>
@@ -76,7 +76,7 @@ npm install
 ```bash
 npm run start
 ```
-http://localhost:3000 환경에서 개발 모드 실행
+개발 모드 환경: http://localhost:3000
 
 ### Backend
 ```bash
@@ -84,7 +84,7 @@ npm run build
 npm run start:dev
 ```
 
-http://localhost:8080 환경에서 개발 모드 실행
+개발 모드 환경: http://localhost:8080
 <br/>
 <br/>
 
