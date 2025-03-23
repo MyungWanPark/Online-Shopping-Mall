@@ -4,6 +4,8 @@ React, Node.js, Express, MySQL을 활용한 **풀스택으로 구현한 온라�
 실시간 상품 검색, 데이터 시각화, 장바구니 CRUD, 페이지네이션 등을 구현하였습니다. <br/>
 <br/>
 
+![Image](https://github.com/user-attachments/assets/2057422a-3b02-4dbc-8aff-9db9e3d0e29d)
+
 ## 🔗 Live Demo <br/>
 👉 [쇼핑몰 둘러보기](https://shoppingmall-myungwan.netlify.app/) <br/>
 <br/>
