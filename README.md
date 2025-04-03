@@ -5,7 +5,7 @@ React, Node.js, Express, MySQL을 활용한 **풀스택으로 구현한 온라�
 <br/>
 (아래 이미지를 **클릭**하시면 **큰 화면**으로 보실 수 있습니다.)<br/>
 <br/>
-<img src="https://github.com/user-attachments/assets/2057422a-3b02-4dbc-8aff-9db9e3d0e29d" width="800" style="border: 2px solid red; border-radius: 8px;"/>
+<img src="https://github.com/user-attachments/assets/1b621014-112e-4b6c-852b-1bdf0dee9449" width="800" style="border: 2px solid red; border-radius: 8px;"/>
 
 ## 🔗 Live Demo <br/>
 👉 [쇼핑몰 둘러보기](https://shoppingmall-myungwan.netlify.app/) <br/>
