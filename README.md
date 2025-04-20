@@ -24,7 +24,7 @@ React, Node.js, Express, MySQL을 기반으로 **풀스택으로 구현한 온�
 - **UI Library**: MUI
 - **Routing**: React Router Dom
 - **State Management**: Redux
-- **Network State**: TanStack Query (React Query)
+- **Network State Management**: TanStack Query (React Query)
 - **Styling**: Tailwind CSS
 - **Charting**: ApexCharts
 
