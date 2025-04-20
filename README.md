@@ -1,8 +1,6 @@
 # Online-Shopping-Mall(Full Stack E-commerce)
 
 React, Node.js, Express, MySQL을 기반으로 **풀스택으로 구현한 온라인 쇼핑몰** 입니다. <br/>
-실시간 상품 검색, 관리자용 대시보드, 장바구니 CRUD, 페이지네이션 등을 구현하였습니다. <br/>
-<br/>
 (아래 이미지를 **클릭**하시면 **큰 화면**으로 보실 수 있습니다.)<br/>
 <br/>
 <img src="https://github.com/user-attachments/assets/1b621014-112e-4b6c-852b-1bdf0dee9449" width="800" style="border: 2px solid red; border-radius: 8px;"/>
