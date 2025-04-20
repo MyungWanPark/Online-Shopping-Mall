@@ -16,6 +16,31 @@ React, Node.js, Express, MySQL을 기반으로 **풀스택으로 구현한 온�
 - [🔙 Backend Repository](https://github.com/MyungWanPark/shopping-mall-backend) <br/>
 <br/>
 
+## 🛠️ Tech Stack
+
+### 🖥️ Frontend
+- **Framework**: React
+- **Language**: TypeScript
+- **UI Library**: MUI
+- **Routing**: React Router Dom
+- **State Management**: Redux
+- **Network State**: TanStack Query (React Query)
+- **Styling**: Tailwind CSS
+- **Charting**: ApexCharts
+
+### 🧠 Backend
+- **Runtime**: Node.js with Express
+- **Language**: TypeScript
+- **Database**: MySQL with Sequelize ORM
+- **Authentication**: OAuth2 (Kakao), JWT
+- **Architecture**: MVC, RESTful API
+
+### ☁️ Deployment
+- **Frontend**: Netlify
+- **Backend**: CloudType
+- **Database**: CloudType (MySQL)
+<br/>
+
 ## 🚀 Key Features
 
 ### 👤 사용자 인증 & 권한
@@ -45,30 +70,6 @@ React, Node.js, Express, MySQL을 기반으로 **풀스택으로 구현한 온�
 - **반응형 UI** – 데스크탑, 태블릿, 모바일 환경에 최적화된 반응형 레이아웃  
 <br/>
 
-## 🛠️ Tech Stack
-
-### Frontend
-- **UI** - React, MUI <br/>
-- **Language** - TypeScript  <br/>
-- **네비게이션** - React Router Dom  <br/>
-- **전역 상태 관리** - Redux  <br/>
-- **네트워크 상태 관리** - Tanstack Query  <br/>
-- **스타일링** - Tailwind CSS <br/> 
-- **차트 라이브러리** - Apex Chart <br/>
-
-### Backend
-- **서버** - Node.js with Express
-- **Language** - TypeScript  <br/>
-- **Database** - MySQL, Sequelize ORM
-- **사용자 인증** - OAuth2 with Kakao, JWT
-- **MVC architecture**
-- **RESTful API**
-
-### Deployment
-- **Frontend** - Netlify
-- **Backend** - CloudType
-- **DB** - CloudType
-<br/>
 
 ## 💻 Installation & Setup
 
